@@ -26,3 +26,13 @@ nav {
     width: 120px;
     cursor: pointer;
 }
+
+.menu-icon {
+    width: 35px;
+    cursor: pointer;
+}
+
+nav ul {
+    flex: 3;
+    text-align: right;
+}
