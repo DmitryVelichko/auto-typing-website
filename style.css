@@ -33,6 +33,11 @@ nav {
 }
 
 nav ul {
-    flex: 3;
+    flex: 1;
     text-align: right;
+    padding-right: 40px;
+}
+
+nav ul li {
+    display: inline-block;
 }
