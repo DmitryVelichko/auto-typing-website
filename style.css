@@ -47,4 +47,10 @@ nav ul li {
 nav ul li a {
     color: #fff;
     text-decoration: none;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+
+nav ul li a:hover {
+    color: #fff724
 }
