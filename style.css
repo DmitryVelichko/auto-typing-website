@@ -80,4 +80,6 @@ nav ul li a:hover {
 .text-box .btn {
     background: #fff724;
     color: #000;
+    margin-left: 30px;
+    font-weight: 600;
 }
