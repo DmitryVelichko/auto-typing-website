@@ -74,4 +74,9 @@ nav ul li a:hover {
     border: 2px solid #fff724;
     color: #fff724;
     padding: 10px 30px;
+    text-decoration: none;
+}
+
+.text-box .btn {
+    background: #fff724;
 }
