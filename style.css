@@ -83,3 +83,8 @@ nav ul li a:hover {
     margin-left: 30px;
     font-weight: 600;
 }
+
+.user-img {
+    position: absolute;
+    width: 540px;
+}
